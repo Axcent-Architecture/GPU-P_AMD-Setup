@@ -1,6 +1,9 @@
 # GPU-P_AMD-Setup
 
-
+- [Setup GPU-P](#setup-gpu-p)
+  - [Part 1: Host Machine](#part-1-host-machine)
+  - [Part 2: VM Machine](#part-2-vm-machine)
+  - [Part 3: Verification](#part-3-verification)
 
 ## Setup GPU-P
 
